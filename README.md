@@ -1,2 +1,2 @@
 # lugarlang-code-review-and-QA
-Contains reports, fixes, debugging 
+Contains algorithms, reports, fixes, debugging 
